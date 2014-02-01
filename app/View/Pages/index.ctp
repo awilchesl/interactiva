@@ -1,0 +1,1 @@
+<h1>Hola <?php echo $gato;?></h1>
